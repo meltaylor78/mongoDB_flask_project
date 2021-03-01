@@ -1,0 +1,7 @@
+
+
+Werkzeug : (For Autentication used in flask)
+    Flask uses Werkzeug to handle various utilities for WSGI applications, providing more structure
+    and patterns for defining powerful apps.
+Utililites link - https://werkzeug.palletsprojects.com/en/1.0.x/utils/
+
