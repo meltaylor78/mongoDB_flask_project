@@ -4,11 +4,8 @@
 
 $(document).ready(function () {
     $(".sidenav").sidenav({edge: "right"});
+    $('.collapsible').collapsible();
 });
-
-
-
-
 
 /*
     vanilla JavaScript for MaterializeCSS initialization
